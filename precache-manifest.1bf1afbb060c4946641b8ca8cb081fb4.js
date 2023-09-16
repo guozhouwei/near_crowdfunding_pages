@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f42be8a547bf4a8206a35e00db317e4",
+    "revision": "952c08abff1f74348276e9e79d56065b",
     "url": "/near_crowdfunding_pages/index.html"
   },
   {
-    "revision": "ab01cd7ab296c2396fac",
+    "revision": "1006b83eb651ff80759f",
     "url": "/near_crowdfunding_pages/static/css/main.711ea19d.chunk.css"
   },
   {
-    "revision": "c6f62fab971c6964bfe7",
-    "url": "/near_crowdfunding_pages/static/js/2.4d3b9ce2.chunk.js"
+    "revision": "f81799344c7a74f6367d",
+    "url": "/near_crowdfunding_pages/static/js/2.65a56496.chunk.js"
   },
   {
     "revision": "3bb3494124db52eabe35442096be882b",
-    "url": "/near_crowdfunding_pages/static/js/2.4d3b9ce2.chunk.js.LICENSE.txt"
+    "url": "/near_crowdfunding_pages/static/js/2.65a56496.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab01cd7ab296c2396fac",
-    "url": "/near_crowdfunding_pages/static/js/main.18f8fc6c.chunk.js"
+    "revision": "1006b83eb651ff80759f",
+    "url": "/near_crowdfunding_pages/static/js/main.5a0e4a57.chunk.js"
   },
   {
     "revision": "0fcf3e388e20a667685c",
